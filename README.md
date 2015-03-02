@@ -58,8 +58,8 @@ Fechamento de cambio “manual”. O gerente lhe envia um documento por e-mail, 
 
 **Citi**  
 Informações de 23-02-2015  
-Dólar do momento: 2,8805  
-Não correntista: 2,74  
+Dólar do momento: R$2,8805  
+Não correntista: R$2,74  
 Correntista: (Não correntista) + (.7 ~ .10)  
 Manutenção: R$42 mensais (6 primeiros meses grátis com tudo incluso)  
 Sem taxa de fechamento de cambio  
