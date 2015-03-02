@@ -10,7 +10,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Ferramentas](#ferramentas)
 - [Recursos](#recursos)
   - [Grok Podcast](#grok-podcast)
-- [Como receber](#como-receber)
+- [Como receber do exterior](#como-receber-do-exterior)
   - [Bancos](#bancos)
   - [Pagamento digital](#pagamento-digital)
 - [Impostos](#impostos)
@@ -33,7 +33,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ## Recursos
 
-- [Nomad List](https://nomadlist.com) - As melhores cidades para se viver e trabalha remotamente
+- [Nomad List](https://nomadlist.com) - As melhores cidades para se viver e trabalhar remotamente
 
 ### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
@@ -42,7 +42,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Episódio 86 – Trabalho Remoto – Parte 4 de 5](http://www.grokpodcast.com/2013/04/24/episodio-89-trabalho-remoto/)
 - [Episódio 86 – Trabalho Remoto – Parte 5 de 5](http://www.grokpodcast.com/2013/05/02/episodio-90-trabalho-remoto/)
 
-## Como receber
+## Como receber do exterior
 
 ### Bancos
 
