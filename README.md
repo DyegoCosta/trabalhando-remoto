@@ -33,6 +33,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ## Recursos
 
+- [Nomad List](https://nomadlist.com) - As melhores cidades para se viver e trabalha remotamente
+
 ### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
 - [Episódio 86 – Trabalho Remoto – Parte 2 de 5](http://www.grokpodcast.com/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/)
