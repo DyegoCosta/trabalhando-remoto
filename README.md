@@ -36,6 +36,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Nomad List](https://nomadlist.com) - As melhores cidades para se viver e trabalhar remotamente
 - [Remote](http://37signals.com/remote) (Livro - Jason Fried e DHH)
 - [Trabalho Remoto - Small Office, Home Office (SoHo)](http://www.akitaonrails.com/2013/11/18/off-topic-trabalho-remoto-small-office-home-office-soho) (Fábio Akita)
+- [tapajos/trabalhando_fora](http://tapajos.me/trabalhando_fora)
 
 ### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
