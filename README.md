@@ -13,6 +13,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Como receber do exterior](#como-receber-do-exterior)
   - [Bancos](#bancos)
   - [Pagamento digital](#pagamento-digital)
+  - [Invoice](#invoice)
 - [Impostos](#impostos)
 - [Contribuir](#contribuir)
 
@@ -27,7 +28,6 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
 
 ## Ferramentas
-- [Harvest](https://www.getharvest.com/)
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon)
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/)
 
@@ -103,6 +103,15 @@ Existe um limite de câmbio anual definido com base na sua renda comprovada. Se 
 - [Skrill](https://www.skrill.com)
 - [Payoneer](http://www.payoneer.com/)
 - [Google Wallet](https://www.google.com/wallet/)
+
+### Invoice
+
+Invoice é um documento simples onde você descreve o tipo de serviço que esta sendo prestado e o valor deste serviço.
+A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona como uma espécie de nota fiscal do seu serviço que deve ser gerada todo mês caso seu salário seja mensal. Este documento pode ser bem simples e escrito em qualquer editor de texto. O único ponto a ser observado ao gerar uma invoice é o numero do documento que deve ser sempre único.
+
+ - [Gerador Online](https://invoice-generator.com)
+ - [Harvest](https://www.getharvest.com/)
+
 
 ## Impostos
 
