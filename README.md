@@ -28,8 +28,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
 
 ## Ferramentas
-- [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon)
-- [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/)
+- [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
+- [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFoucsd
 
 ## Recursos
 
