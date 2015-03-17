@@ -14,7 +14,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Bancos](#bancos)
   - [Pagamento digital](#pagamento-digital)
   - [Invoice](#invoice)
-- [Impostos](#impostos)
+- [Impostos e Contribuições Federais](#impostos-e-contribuições-federais)
 - [Contribuir](#contribuir)
 
 ## Empregos
@@ -113,7 +113,7 @@ A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona
  - [Harvest](https://www.getharvest.com/)
 
 
-## Impostos
+## Impostos e Contribuições Federais
 
 TODO
 
