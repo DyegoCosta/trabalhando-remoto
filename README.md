@@ -29,7 +29,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ## Ferramentas
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
-- [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFoucsd
+- [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFocusd
 
 ## Recursos
 
