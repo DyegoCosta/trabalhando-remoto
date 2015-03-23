@@ -120,4 +120,4 @@ TODO
 
 ## Contribuir
 
-Envie um [e-mail](mailto:dyego@dyegocosta.com) ou abra um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
