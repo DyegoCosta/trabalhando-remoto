@@ -25,6 +25,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [AngelList](https://angel.co/jobs)
 - [OndeTrabalhar](http://www.ondetrabalhar.com/em/home-office-remoto)
 - [JOBBOX](https://www.jobbox.io/offers?t=&s=featured&r=on)
+- [Toptal](http://www.toptal.com/)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
