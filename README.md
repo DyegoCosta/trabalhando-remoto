@@ -110,6 +110,7 @@ Existe um limite de câmbio anual definido com base na sua renda comprovada. Se 
 - [Payoneer](http://www.payoneer.com/)
 - [Google Wallet](https://www.google.com/wallet/)
 - [Western Union](https://www.westernunion.com.br)
+- [Xoom](https://www.xoom.com/)
 
 ### Invoice
 
