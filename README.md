@@ -91,7 +91,7 @@ Manutenção: R$40 mensais
 Liquidação via internet banking  
 Aparentemente burocrático para começar a receber as ordens de pagamento. Dependendo de como estiver a documentação do contrato de serviço eles podem não aceitar  
 
-**Itaú Personnalité**  
+**Itaú Personnalité / Uniclass**  
 Informações de 02-03-2015  
 Dólar do momento: R$2,8605  
 Cotação do banco: R$2,69  
@@ -107,6 +107,7 @@ Existe um limite de câmbio anual definido com base na sua renda comprovada. Se 
 - [Skrill](https://www.skrill.com)
 - [Payoneer](http://www.payoneer.com/)
 - [Google Wallet](https://www.google.com/wallet/)
+- [Western Union](https://www.westernunion.com.br)
 
 ### Invoice
 
@@ -114,6 +115,7 @@ Invoice é um documento simples onde você descreve o tipo de serviço que esta 
 A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona como uma espécie de nota fiscal do seu serviço que deve ser gerada todo mês caso seu salário seja mensal. Este documento pode ser bem simples e escrito em qualquer editor de texto. O único ponto a ser observado ao gerar uma invoice é o numero do documento que deve ser sempre único.
 
  - [Gerador Online](https://invoice-generator.com)
+ - [Outro Gerador Online](https://www.free-invoice-generator.com/)
  - [Harvest](https://www.getharvest.com/)
 
 
