@@ -102,6 +102,8 @@ Existe um limite de câmbio anual definido com base na sua renda comprovada. Se 
 
 ### Pagamento digital
 
+É importante ressaltar que as diversas formas de pagamento digital não podem dar a mesma segurança de um banco. A maioria das pessoas nunca terá problemas com esse método de pagamento mas existem casos em que a transferência ficou bloqueada por tempo indeterminado devido a suspeita de fraude. Pessoas que nunca usaram os serviços e passarão a receber grandes quantias através deles estarão sujeitas a um maior risco.
+
 - [PayPal](https://www.paypal.com)
 - [Moip](https://moip.com.br/solucoes-assinaturas/)
 - [Skrill](https://www.skrill.com)
