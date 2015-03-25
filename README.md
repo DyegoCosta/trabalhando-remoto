@@ -125,10 +125,10 @@ Não leve em consideração somente as cotações para escolher o banco ideal pa
 Invoice é um documento simples onde você descreve o tipo de serviço que esta sendo prestado e o valor deste serviço.
 A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona como uma espécie de nota fiscal do seu serviço que deve ser gerada todo mês caso seu salário seja mensal. Este documento pode ser bem simples e escrito em qualquer editor de texto. O único ponto a ser observado ao gerar uma invoice é o numero do documento que deve ser sempre único.
 
- - [Gerador Online](https://invoice-generator.com)
- - [Outro Gerador Online](https://www.free-invoice-generator.com/)
- - [Harvest](https://www.getharvest.com/)
- - [PayPal Invoicing](https://www.paypal.com/ae/cgi-bin/webscr?cmd=p/sell/invoicing_works-outside) (Para recebimento via PayPal)
+- [Harvest](https://www.getharvest.com/)
+- [Invoiced Lite](https://invoice-generator.com)
+- [Free Invoice Generator](https://www.free-invoice-generator.com/)
+- [PayPal Invoicing](https://www.paypal.com/ae/cgi-bin/webscr?cmd=p/sell/invoicing_works-outside) (Para recebimento via PayPal)
 
 
 ## Impostos e Contribuições Federais
