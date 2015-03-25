@@ -53,7 +53,18 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ### Bancos
 
-Veja as opções de bancos, suas taxas e particularidades [aqui](bancos.md).
+#### Cotações
+  
+- Santander Select            (R$2,79 / R$2,87)
+- Citi                        (R$2,97 / R$3,14)
+- Bradesco Prime              (R$2,85 / R$2,87)
+- Banco do Brasil Estilo      (R$2,79 / R$2,87)
+- Itaú Personnalité/Uniclass  (R$2,69 / R$2,86)
+- HSBC Premier                (R$2,99 / R$3,14)
+
+&#42; (cotação do banco / dólar comercial no momento da cotação) 
+
+Veja os detalhes dos bancos, suas taxas e particularidades [aqui](bancos.md). Dica: não leve em consideração somente a melhor cotação, considere fatores como taxas e praticidade para o fechamento das transações.
 
 ### Pagamento digital
 

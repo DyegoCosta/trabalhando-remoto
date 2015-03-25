@@ -39,7 +39,7 @@ Manutenção: R$40 mensais
 Liquidação via internet banking  
 Aparentemente burocrático para começar a receber as ordens de pagamento. Dependendo de como estiver a documentação do contrato de serviço eles podem não aceitar  
 
-**Itaú Personnalité**  
+**Itaú Personnalité / Uniclass**  
 Informações de 02-03-2015  
 Dólar do momento: R$2,8605  
 Cotação do banco: R$2,69  
@@ -49,8 +49,8 @@ Fechamento via internet. Após cada fechamento é necessário o envio de algum d
 Existe um limite de câmbio anual definido com base na sua renda comprovada. Se o limite for atingido você não poderá realizar mais nenhuma transação de câmbio até que o banco aumente-o. Se houver uma ordem de pagamento pendente ela ficará bloqueada até que isso seja resolvido. É imprevisível o limite que será concebido  
 
 **HSBC Premier**
-Informações de 24-03-2015
-Dólar do momento: R$3,14
-Cotação do banco: R$2,99
-Taxa por transação de fechamento de câmbio: Grátis ou R$30 (Depende do valor da transação)
+Informações de 24-03-2015 
+Dólar do momento: R$3,14 
+Cotação do banco: R$2,99 
+Taxa por transação de fechamento de câmbio: Grátis ou R$30 (Depende do valor da transação) 
 Fechamento feito pelo telefone ou pessoalmente com o/a gerente
