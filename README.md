@@ -128,6 +128,7 @@ A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona
  - [Gerador Online](https://invoice-generator.com)
  - [Outro Gerador Online](https://www.free-invoice-generator.com/)
  - [Harvest](https://www.getharvest.com/)
+ - [PayPal Invoicing](https://www.paypal.com/ae/cgi-bin/webscr?cmd=p/sell/invoicing_works-outside) (Para recebimento via PayPal)
 
 
 ## Impostos e Contribuições Federais
