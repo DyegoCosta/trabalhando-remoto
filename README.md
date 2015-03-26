@@ -14,7 +14,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Bancos](#bancos)
   - [Pagamento digital](#pagamento-digital)
   - [Invoice](#invoice)
-- [Impostos e Contribuições Federais](#impostos-e-contribuições-federais)
+- [Impostos e Contribuições Federais](#impostos)
 - [Contribuir](#contribuir)
 
 ## Empregos
@@ -131,9 +131,18 @@ A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona
 - [PayPal Invoicing](https://www.paypal.com/ae/cgi-bin/webscr?cmd=p/sell/invoicing_works-outside) (Para recebimento via PayPal)
 
 
-## Impostos e Contribuições Federais
+## Impostos
 
-TODO
+A intenção desta seção é destacar as particularidade dos impostos quando o serviço prestado em questão é remoto e para empresas do exterior. Caso a prestação de serviço seja para empresas dentro do território brasileiro, não há diferença.
+
+#### Pessoa Jurídica
+Não deixe de consultar e/ou contratar os serviços de um escritório de contabilidade para obter maiores informações a respeito dos impostos que sua empresa deve pagar.
+
+A isenção do **ISS** também pode ser usufruída caso o resultado do serviço prestado não seja verificado no Brasil. Por exemplo, o software em que trabalha não é utilizado no Brasil.
+
+> Nesse caso os impostos podem variar bastante de acordo com o tipo da sua empresa e a sua localização. Se a sua empresa for cadastrada no **Simples** você irá pagar os impostos como se tivesse prestando serviço no Brasil. Caso sua empresa seja de **Lucro Presumido** você pode usufruir da isenção de **PIS** e **Cofins** existente para serviços de exportação de software conforme IN-SRF 247 Art. 46 de 21/11/2012.
+
+Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapajos.me/trabalhando_fora/#impostos)
 
 ## Contribuir
 
