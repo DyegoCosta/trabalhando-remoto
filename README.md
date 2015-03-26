@@ -55,54 +55,14 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 #### Cotações
 
-<table>
-  <thead>
-    <tr>
-      <th>Banco</th>
-      <th>Cotação do banco</th>
-      <th>Dólar comercial &#42;</th>
-      <th>Diferença</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Banco do Brasil Estilo</td>
-      <td>R$2,79</td>
-      <td>R$2,87</td>
-      <td>.08</td>
-    </tr>
-    <tr>
-      <td>Bradesco Prime</td>
-      <td>R$2,85</td>
-      <td>R$2,87</td>
-      <td>.02</td>
-    </tr>
-    <tr>
-      <td>Citi</td>
-      <td>R$2,97</td>
-      <td>R$3,14</td>
-      <td>.17</td>
-    </tr>
-    <tr>
-      <td>HSBC Premier</td>
-      <td>R$2,99</td>
-      <td>R$3,14</td>
-      <td>.15</td>
-    </tr>
-    <tr>
-      <td>Itaú Personnalité/Uniclass</td>
-      <td>R$2,69</td>
-      <td>R$2,86</td>
-      <td>.17</td>
-    </tr>
-    <tr>
-      <td>Santander Select</td>
-      <td>R$2,79</td>
-      <td>R$2,87</td>
-      <td>.08</td>
-    </tr>
-  </tbody>
-</table>
+| Banco                      | Cotação do banco | Dólar comercial &#42; | Diferença |
+| -------------------------- |:----------------:| ---------------------:| ---------:|
+| Banco do Brasil Estilo     | R$2,79           | R$2,87                | .08       |
+| Bradesco Prime             | R$2,85           | R$2,87                | .02       |
+| Citi                       | R$2,97           | R$3,14                | .17       |
+| HSBC Premier               | R$2,99           | R$3,14                | .15       |
+| Itaú Personnalité/Uniclass | R$2,69           | R$2,86                | .17       |
+| Santander Select           | R$2,79           | R$2,87                | .08       |
 
 &#42; No momento da cotação 
  
