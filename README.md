@@ -1,6 +1,6 @@
 # Trabalhando remoto
 
-Compilação de informações destinada a quem trabalha ou quer trabalhar remotamente
+Compilação de informações destinada a quem trabalha ou quer trabalhar remotamente.
 
 ## Conteúdo
 
@@ -89,6 +89,7 @@ A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona
 - [Invoiced Lite](https://invoice-generator.com)
 - [Free Invoice Generator](https://www.free-invoice-generator.com/)
 - [PayPal Invoicing](https://www.paypal.com/ae/cgi-bin/webscr?cmd=p/sell/invoicing_works-outside) (Para recebimento via PayPal)
+- [Invoice Ninja](http://www.invoiceninja.com/) (Freemium e open source)
 
 
 ## Impostos
