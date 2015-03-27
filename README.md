@@ -8,6 +8,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [TI](#ti)
   - [Diversos](#diversos)
 - [Ferramentas](#ferramentas)
+  - [Comunicadores](#comunicadores)
+  - [Produtividade](#produtividade)
 - [Recursos](#recursos)
   - [Grok Podcast](#grok-podcast)
 - [Como receber do exterior](#como-receber-do-exterior)
@@ -32,6 +34,17 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
 
 ## Ferramentas
+
+### Comunicadores
+
+- [Hangout](http://www.google.com/+/learnmore/hangouts/)
+- [Slack](https://slack.com/)
+- [Hipchat](https://www.hipchat.com/)
+- [IRCCloud](https://www.irccloud.com/)
+- [Skype](http://www.skype.com/)
+
+### Produtividade
+
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFocusd
 
