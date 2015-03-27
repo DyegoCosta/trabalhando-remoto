@@ -55,7 +55,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Trabalho Remoto - Small Office, Home Office (SoHo)](http://www.akitaonrails.com/2013/11/18/off-topic-trabalho-remoto-small-office-home-office-soho) (Fábio Akita)
 - [tapajos/trabalhando_fora](http://tapajos.me/trabalhando_fora)
 
-### Grok Podcast
+##### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
 - [Episódio 86 – Trabalho Remoto – Parte 2 de 5](http://www.grokpodcast.com/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/)
 - [Episódio 86 – Trabalho Remoto – Parte 3 de 5](http://www.grokpodcast.com/2013/04/16/episodio-88-trabalho-remoto/)
