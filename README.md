@@ -67,7 +67,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ### Cotação de moedas
 
 - [UOL](http://economia.uol.com.br/cotacoes/cambio/dolar-comercial-estados-unidos/)
-- [XE](http://http://www.xe.com/)
+- [XE](http://www.xe.com/)
 
 ## Como receber do exterior
 
