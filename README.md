@@ -100,6 +100,7 @@ Não leve em consideração somente as cotações para escolher o banco ideal pa
 - [Google Wallet](https://www.google.com/wallet/)
 - [Western Union](https://www.westernunion.com.br)
 - [Xoom](https://www.xoom.com/)
+- [TransferWise](https://transferwise.com/)
 
 ### Invoice
 
