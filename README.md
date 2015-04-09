@@ -20,6 +20,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Impostos e Contribuições Federais](#impostos)
 - [Contribuir](#contribuir)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
+  - [Compartilhe](#compartilhe)
 
 ## Empregos
 
@@ -135,3 +136,7 @@ Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com
 ### Conselhos e depoimentos
 
 Como discutido no [issue #15](https://github.com/DyegoCosta/trabalhando-remoto/issues/15) iremos em breve iniciar uma wiki page para compartilharmos nossas experiências com trabalho remoto. Enquanto não temos a wiki em seu formato inicial, por falta de conteúdo, fica aqui a chamada para que puder contribuir. Basta abrir um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com o seu depoimento que assim que a wiki for criada ele será adicionado lá. A wiki será iniciada assim que tivermos algum conteúdo :grimacing:
+
+### Compartilhe
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto&t=Trabalhando%20remoto" title="Share on Facebook" target="_blank"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color/Facebook.png"></a> <a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto&text=Trabalhando%20remoto:%20https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto" target="_blank" title="Tweet"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color/Twitter.png"></a> <a href="https://plus.google.com/share?url=https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto" target="_blank" title="Share on Google+"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color//Google+.png"></a>
