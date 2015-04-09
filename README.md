@@ -89,7 +89,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 &#42; Pessoa física  
 &#42;&#42; No momento da cotação 
  
-Não leve em consideração somente as cotações para escolher o banco ideal para você. Veja os detalhes dos bancos, suas taxas e particularidades [aqui](bancos.md).
+Não leve em consideração somente as cotações para escolher o banco ideal para você. Veja os detalhes dos bancos, suas taxas e particularidades [aqui](https://github.com/DyegoCosta/trabalhando-remoto/wiki/Bancos).
 
 ### Pagamento digital
 
