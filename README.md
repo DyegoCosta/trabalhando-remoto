@@ -19,6 +19,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Invoice](#invoice)
 - [Impostos e Contribuições Federais](#impostos)
 - [Contribuir](#contribuir)
+  - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
 
 ## Empregos
 
@@ -130,3 +131,7 @@ Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapaj
 ## Contribuir
 
 Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+
+### Conselhos e depoimentos
+
+Como discutido no [issue #15](https://github.com/DyegoCosta/trabalhando-remoto/issues/15) iremos em breve iniciar uma wiki page para compartilharmos nossas experiências com trabalho remoto. Enquanto não temos a wiki em seu formato inicial, por falta de conteúdo, fica aqui a chamada para que puder contribuir. Basta abrir um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com o seu depoimento que assim que a wiki for criada ele será adicionado lá. A wiki será iniciada assim que tivermos algum conteúdo :grimacing:
