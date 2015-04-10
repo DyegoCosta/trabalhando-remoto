@@ -32,6 +32,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [JOBBOX](https://www.jobbox.io/offers?t=&s=featured&r=on)
 - [Toptal](http://www.toptal.com/)
 - [Remote OK](http://remoteok.io/)
+- [oDesk](https://www.odesk.com/)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
@@ -45,11 +46,13 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Hipchat](https://www.hipchat.com/)
 - [IRCCloud](https://www.irccloud.com/)
 - [Skype](http://www.skype.com/)
+- [ooVoo](http://www.oovoo.com/)
 
 ### Produtividade
 
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFocusd
+- [ColdTurkey (Windows)](http://getcoldturkey.com/) - Similar aos acima
 
 ## Recursos
 
