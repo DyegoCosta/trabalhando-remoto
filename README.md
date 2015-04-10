@@ -43,6 +43,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Hangout](http://www.google.com/+/learnmore/hangouts/)
 - [Slack](https://slack.com/)
 - [Hipchat](https://www.hipchat.com/)
+- [Gitter](https://gitter.im)
 - [IRCCloud](https://www.irccloud.com/)
 - [Skype](http://www.skype.com/)
 
