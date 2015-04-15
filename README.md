@@ -10,6 +10,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Ferramentas](#ferramentas)
   - [Comunicadores](#comunicadores)
   - [Produtividade](#produtividade)
+  - [Gerenciamento de projetos](#gerenciamento-de-projetos)
 - [Recursos](#recursos)
   - [Grok Podcast](#grok-podcast)
   - [Cotação de moedas](#cotação-de-moedas)
@@ -53,6 +54,9 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFocusd
 - [ColdTurkey (Windows)](http://getcoldturkey.com/) - Similar aos acima
+
+### Gerenciamento de projetos
+- [Trello](https://trello.com/)
 
 ## Recursos
 
