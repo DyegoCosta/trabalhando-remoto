@@ -34,6 +34,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Toptal](http://www.toptal.com/)
 - [Remote OK](http://remoteok.io/)
 - [oDesk](https://www.odesk.com/)
+- [Top Ruby Jobs](https://toprubyjobs.com/jobs?utf8=%E2%9C%93&filter[]=remote&q=)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
