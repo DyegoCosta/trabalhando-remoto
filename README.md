@@ -19,6 +19,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Pagamento digital](#pagamento-digital)
   - [Invoice](#invoice)
 - [Impostos e Contribuições Federais](#impostos)
+  - [Pessoa Física](#pessoa-física)
+  - [Pessoa Jurídica](#pessoa-jurídica)
 - [Contribuir](#contribuir)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
   - [Compartilhe](#compartilhe)
@@ -127,6 +129,15 @@ A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona
 ## Impostos
 
 A intenção desta seção é destacar as particularidade dos impostos quando o serviço prestado em questão é remoto e para empresas do exterior. Caso a prestação de serviço seja para empresas dentro do território brasileiro, não há diferença.
+
+#### Pessoa Física
+
+###### Imposto de renda
+Ao receber qualquer rendimento, você deve prestar contas deste rendimento à Receita Federal do Brasil. Se o seu empregador não tem representatividade no Brasil ou ele não retém na fonte o imposto, você deve recolher o imposto através do [Carnê-Leão](http://www.receita.fazenda.gov.br/PessoaFisica/Carneleao/Default.htm). A funcionalidade é simples, você deve declarar, no mês posterior ao recebimento efetivo (exemplo: quando o dinheiro caiu na sua conta) o valor em reais referente ao serviço prestado. Com isso, no próprio programa é gerada uma DARF para o pagamento do imposto, que deve ser quitado até o último dia útil do mês posterior ao recebimento.
+
+Se você recebe o valor em moeda estrangeira, seja através de ordem de pagamento ou via PayPal, você deve converter o valor para USD e depois para BRL. **Importante**: o valor a ser declarado não é o valor exato que você recebeu em reais, existe uma [regra específica para declarar rendimentos em moeda estrangeira](http://www.receita.fazenda.gov.br/pessoafisica/irpf/2015/perguntao/perguntas/pergunta-157.html).
+
+Lembre-se de salvar os arquivos gerados pelo programa Carnê-Leão, para que eles sejam importados na sua [declaração de ajuste anual do IRPF](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2015/default.htm) no ano seguinte.
 
 #### Pessoa Jurídica
 Não deixe de consultar e/ou contratar os serviços de um escritório de contabilidade para obter maiores informações a respeito dos impostos que sua empresa deve pagar.
