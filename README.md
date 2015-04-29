@@ -133,11 +133,17 @@ A intenção desta seção é destacar as particularidade dos impostos quando o 
 #### Pessoa Física
 
 ###### Imposto de renda
-Ao receber qualquer rendimento, você deve prestar contas deste rendimento à Receita Federal do Brasil. Se o seu empregador não tem representatividade no Brasil ou ele não retém na fonte o imposto, você deve recolher o imposto através do [Carnê-Leão](http://www.receita.fazenda.gov.br/PessoaFisica/Carneleao/Default.htm). A funcionalidade é simples, você deve declarar, no mês posterior ao recebimento efetivo (exemplo: quando o dinheiro caiu na sua conta) o valor em reais referente ao serviço prestado. Com isso, no próprio programa é gerada uma DARF para o pagamento do imposto, que deve ser quitado até o último dia útil do mês posterior ao recebimento.
-
-Se você recebe o valor em moeda estrangeira, seja através de ordem de pagamento ou via PayPal, você deve converter o valor para USD e depois para BRL. **Importante**: o valor a ser declarado não é o valor exato que você recebeu em reais, existe uma [regra específica para declarar rendimentos em moeda estrangeira](http://www.receita.fazenda.gov.br/pessoafisica/irpf/2015/perguntao/perguntas/pergunta-157.html).
+Ao receber qualquer rendimento, você deve prestar contas à Receita Federal do Brasil. Se o seu empregador não tem representatividade no Brasil ou ele não retém o imposto, você deve recolher o imposto através do [Carnê-Leão](http://www.receita.fazenda.gov.br/PessoaFisica/Carneleao/Default.htm). A funcionalidade é simples, você deve declarar, no mês posterior ao recebimento efetivo (exemplo: quando o dinheiro caiu na sua conta) o valor em reais referente ao serviço prestado. Com isso, no próprio programa é gerada uma DARF para o pagamento do imposto, que deve ser quitado até o último dia útil do mês posterior ao recebimento.
 
 Lembre-se de salvar os arquivos gerados pelo programa Carnê-Leão, para que eles sejam importados na sua [declaração de ajuste anual do IRPF](http://www.receita.fazenda.gov.br/PessoaFisica/IRPF/2015/default.htm) no ano seguinte.
+
+**Valores recebidos do exterior:**
+Valores recebidos por residente brasileiro de empresas no exterior devem ser declarados no Carnê-Leão, mesmo que a conta que recebeu os valores é de outro país. O mesmo se aplica ao PayPal: se o dinheiro tem origem de uma empresa no exterior e é convertido em reais pelo PayPal, você deve declarar o valor recebido originalmente, pois as despesas bancárias não podem ser abatidas para o cálculo do imposto.
+
+Se você recebeu valores no PayPal (ou em conta no exterior) em moeda estrangeira e manteve o saldo no PayPal (ou na conta no exterior), a regra continua válida: os rendimentos devem ser declarados no Carnê-Leão.
+
+**Valor em moeda estrangeira:**
+O valor a ser declarado não é o valor exato que você recebeu em reais, existe uma [regra específica para declarar rendimentos em moeda estrangeira](http://www.receita.fazenda.gov.br/pessoafisica/irpf/2015/perguntao/perguntas/pergunta-157.html). Você deve converter o valor para dólar americano (USD) se ainda não estiver nesta moeda, e então converter para reais. É importante lembrar que você deve declarar o valor bruto, sem descontar as taxas que o banco/meio de pagamento cobrar.
 
 #### Pessoa Jurídica
 Não deixe de consultar e/ou contratar os serviços de um escritório de contabilidade para obter maiores informações a respeito dos impostos que sua empresa deve pagar.
