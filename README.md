@@ -94,7 +94,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 | Citi                       | R$2,97                 | R$3,14                     | .17       |                |
 | HSBC Premier               | R$2,99                 | R$3,14                     | .15       |                |
 | Itaú Personnalité/Uniclass | R$2,69                 | R$2,86                     | .17       |                |
-| Santander Select           | R$3,01                 | R$3,02                     | .01       | R$150,00       |
+| Santander Select           | R$2,79                 | R$2,87                     | .08       |                |
+| Santander Empresarial      | R$3,01                 | R$3,02                     | .01       | R$150,00       |
 
 &#42; Pessoa física  
 &#42;&#42; No momento da cotação 
