@@ -87,7 +87,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 #### Cotações
 
-| Banco                      | Cotação do banco &#42; | Dólar comercial &#42;&#42; | Diferença | Taxa de câmbio |
+| Banco                      | Cotação do banco       | Dólar comercial &#42;      | Diferença | Taxa de câmbio |
 | -------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
 | Banco do Brasil Estilo     | R$2,79                 | R$2,87                     | .08       |                |
 | Bradesco Prime             | R$2,85                 | R$2,87                     | .02       |                |
@@ -97,8 +97,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 | Santander Select           | R$2,79                 | R$2,87                     | .08       |                |
 | Santander Empresarial      | R$3,01                 | R$3,02                     | .01       | R$150,00       |
 
-&#42; Pessoa física  
-&#42;&#42; No momento da cotação 
+&#42; No momento da cotação 
  
 Não leve em consideração somente as cotações para escolher o banco ideal para você. Veja os detalhes dos bancos, suas taxas e particularidades [aqui](https://github.com/DyegoCosta/trabalhando-remoto/wiki/Bancos).
 
