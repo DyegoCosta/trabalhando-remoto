@@ -96,6 +96,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 | Itaú Personnalité/Uniclass | R$2,69                 | R$2,86                     | .17       | R$60           |
 | Santander Select           | R$2,79                 | R$2,87                     | .08       | R$60           |
 | Santander Empresarial      | R$3,01                 | R$3,02                     | .01       | R$150,00       |
+| Banco Rendimento           | R$2,92                 | R$3,04                     | .12       | $20 USD        |
 
 &#42; No momento da cotação 
  
