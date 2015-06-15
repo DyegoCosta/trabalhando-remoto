@@ -161,7 +161,7 @@ Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com
 
 ### Conselhos e depoimentos
 
-Depoimento do [Felipe Fialho](https://twitter.com/LFeh) em um post no seu blog: "[Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto)"
+* Depoimento do [Felipe Fialho](https://twitter.com/LFeh) em um post no seu blog: "[Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto)"
 
 Contribua com esta seção compartilhando sobre sua experiência com trabalho remoto ou compartilhe posts de pessoas que escreveram seus depoimentos em blogs etc...
 
