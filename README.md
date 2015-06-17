@@ -1,6 +1,6 @@
 # Trabalhando remoto
 
-Compilação de informações destinada a quem trabalha ou quer tratrebalhar remotamente.
+Compilação de informações destinada a quem trabalha ou quer trabalhar remotamente.
 
 ## Conteúdo
 
