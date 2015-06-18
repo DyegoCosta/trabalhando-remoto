@@ -42,8 +42,6 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
 
 ## Ferramentas
-- TI
-  - [Wakatime](http://www.wakatime.com) - Quantifique seu código
 
 ### Comunicadores
 
