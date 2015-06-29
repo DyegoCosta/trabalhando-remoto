@@ -31,6 +31,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
 - [We Work Remotely](https://weworkremotely.com)
 - [AngelList](https://angel.co/jobs)
+- [GitHub Jobs](https://jobs.github.com/positions?description=&location=Remote)
 - [OndeTrabalhar](http://www.ondetrabalhar.com/em/home-office-remoto)
 - [JOBBOX](https://www.jobbox.io/offers?t=&s=featured&r=on)
 - [Toptal](http://www.toptal.com/)
