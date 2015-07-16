@@ -90,16 +90,16 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 #### Cotações
 
-| Banco                      | Cotação do banco       | Dólar comercial &#42;      | Diferença | Taxa de câmbio |
-| -------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
-| Banco do Brasil Estilo     | R$2,79                 | R$2,87                     | .08       |                |
-| Bradesco Prime             | R$2,85                 | R$2,87                     | .02       | $40 USD        |
-| Citi                       | R$2,97                 | R$3,14                     | .17       |                |
-| HSBC Premier               | R$2,99                 | R$3,14                     | .15       | R$30           |
-| Itaú Personnalité/Uniclass | R$2,69                 | R$2,86                     | .17       | R$60           |
-| Santander Select           | R$2,79                 | R$2,87                     | .08       | R$60           |
-| Santander Empresarial      | R$3,01                 | R$3,02                     | .01       | R$150,00       |
-| Banco Rendimento           | R$2,92                 | R$3,04                     | .12       | $20 USD        |
+| Banco                        | Cotação do banco       | Dólar comercial &#42;      | Diferença | Taxa de câmbio |
+| ---------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
+| Banco do Brasil / Estilo     | R$3,07                 | R$3,16                     | .09       |                |
+| Bradesco Prime               | R$2,85                 | R$2,87                     | .02       | $40 USD        |
+| Citi                         | R$2,97                 | R$3,14                     | .17       |                |
+| HSBC Premier                 | R$2,99                 | R$3,14                     | .15       | R$30           |
+| Itaú Personnalité / Uniclass | R$2,69                 | R$2,86                     | .17       | R$60           |
+| Santander Select             | R$2,79                 | R$2,87                     | .08       | R$60           |
+| Santander Empresarial        | R$3,01                 | R$3,02                     | .01       | R$150,00       |
+| Banco Rendimento             | R$2,92                 | R$3,04                     | .12       | $20 USD        |
 
 &#42; No momento da cotação 
  
