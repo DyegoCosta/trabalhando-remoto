@@ -52,6 +52,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Gitter](https://gitter.im)
 - [IRCCloud](https://www.irccloud.com/)
 - [Skype](http://www.skype.com/)
+- [Rocket Chat](https://rocket.chat/)
 
 ### Produtividade
 
