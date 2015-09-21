@@ -41,6 +41,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
+- [Worldpackers](https://www.worldpackers.com/)
 
 ## Ferramentas
 
