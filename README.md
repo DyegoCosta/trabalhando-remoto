@@ -24,6 +24,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Contribuir](#contribuir)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
   - [Compartilhe](#compartilhe)
+- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=label%3Ad%C3%BAvida+)
 
 ## Empregos
 
@@ -162,7 +163,7 @@ Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapaj
 
 ## Contribuir
 
-Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/).
 
 ### Conselhos e depoimentos
 
