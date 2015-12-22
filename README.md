@@ -29,6 +29,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ## Empregos
 
 ### TI
+- [Remote-friendly companies](https://github.com/jessicard/remote-jobs)
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
 - [We Work Remotely](https://weworkremotely.com)
 - [AngelList](https://angel.co/jobs)
