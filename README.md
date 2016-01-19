@@ -22,9 +22,10 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Pessoa Física](#pessoa-física)
   - [Pessoa Jurídica](#pessoa-jurídica)
 - [Contribuir](#contribuir)
+  - [Dúvidas](#dúvidas)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
   - [Compartilhe](#compartilhe)
-- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=label%3Ad%C3%BAvida+)
+- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=label%3Ad%C3%BAvida+) 
 
 ## Empregos
 
@@ -165,6 +166,10 @@ Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapaj
 ## Contribuir
 
 Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/).
+
+### Dúvidas
+
+Por favor não entre em contato direto com os contribuidores deste repositório, ao invés disto consulte as  [FAQs](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=label%3Ad%C3%BAvida+) e caso não encontre o que procura abra um [novo issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com a label `dúvida`.
 
 ### Conselhos e depoimentos
 
