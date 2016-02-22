@@ -41,6 +41,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Remote OK](http://remoteok.io/)
 - [oDesk](https://www.odesk.com/)
 - [Top Ruby Jobs](https://toprubyjobs.com/jobs?utf8=%E2%9C%93&filter[]=remote&q=)
+- [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
