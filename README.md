@@ -22,12 +22,15 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Pessoa Física](#pessoa-física)
   - [Pessoa Jurídica](#pessoa-jurídica)
 - [Contribuir](#contribuir)
+  - [Dúvidas](#dúvidas)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
   - [Compartilhe](#compartilhe)
+- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=label%3Ad%C3%BAvida+) 
 
 ## Empregos
 
 ### TI
+- [Remote-friendly companies](https://github.com/jessicard/remote-jobs)
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
 - [We Work Remotely](https://weworkremotely.com)
 - [AngelList](https://angel.co/jobs)
@@ -38,9 +41,11 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Remote OK](http://remoteok.io/)
 - [oDesk](https://www.odesk.com/)
 - [Top Ruby Jobs](https://toprubyjobs.com/jobs?utf8=%E2%9C%93&filter[]=remote&q=)
+- [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?loc=home-office)
+- [Worldpackers](https://www.worldpackers.com/)
 
 ## Ferramentas
 
@@ -52,6 +57,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Gitter](https://gitter.im)
 - [IRCCloud](https://www.irccloud.com/)
 - [Skype](http://www.skype.com/)
+- [Rocket Chat](https://rocket.chat/)
 
 ### Produtividade
 
@@ -94,11 +100,11 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 | ---------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
 | Banco do Brasil / Estilo     | R$3,07                 | R$3,16                     | .09       |                |
 | Bradesco Prime               | R$2,85                 | R$2,87                     | .02       | $40 USD        |
-| Citi                         | R$2,97                 | R$3,14                     | .17       |                |
+| Citi                         | R$3,63                 | R$3,88                     | .25       |                |
 | HSBC Premier                 | R$2,99                 | R$3,14                     | .15       | R$30           |
-| Itaú Personnalité / Uniclass | R$3,26                 | R$3,46                     | .20       | R$60           |
+| Itaú Personnalité / Uniclass | R$3,84                 | R$4,04                     | .20       | R$105          |
 | Santander Select             | R$2,79                 | R$2,87                     | .08       | R$60           |
-| Santander Empresarial        | R$3,01                 | R$3,02                     | .01       | R$150,00       |
+| Santander Empresarial        | R$4,00                 | R$4,04                     | .04       | R$150          |
 | Banco Rendimento             | R$2,92                 | R$3,04                     | .12       | $20 USD        |
 
 &#42; No momento da cotação 
@@ -160,7 +166,11 @@ Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapaj
 
 ## Contribuir
 
-Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/).
+
+### Dúvidas
+
+Por favor não entre em contato direto com os contribuidores deste repositório, ao invés disto consulte as  [FAQs](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=label%3Ad%C3%BAvida+) e caso não encontre o que procura abra um [novo issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com a label `dúvida`.
 
 ### Conselhos e depoimentos
 
