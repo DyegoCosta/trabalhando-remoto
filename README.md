@@ -43,6 +43,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Top Ruby Jobs](https://toprubyjobs.com/jobs?utf8=%E2%9C%93&filter[]=remote&q=)
 - [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 - [go-remote-jobs](http://oyvindsk.com/writing/go-remote-jobs)
+- [Berlin Startup Jobs](http://berlinstartupjobs.com/)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
