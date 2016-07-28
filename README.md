@@ -14,6 +14,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Recursos](#recursos)
   - [Grok Podcast](#grok-podcast)
   - [Cotação de moedas](#cotação-de-moedas)
+  - [Avaliações de empresas](#avaliações-de-empresas)
 - [Como receber do exterior](#como-receber-do-exterior)
   - [Bancos](#bancos)
   - [Pagamento digital](#pagamento-digital)
@@ -85,11 +86,15 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Episódio 86 – Trabalho Remoto – Parte 4 de 5](http://www.grokpodcast.com/2013/04/24/episodio-89-trabalho-remoto/)
 - [Episódio 86 – Trabalho Remoto – Parte 5 de 5](http://www.grokpodcast.com/2013/05/02/episodio-90-trabalho-remoto/)
 
-
 ### Cotação de moedas
 
 - [UOL](http://economia.uol.com.br/cotacoes/cambio/dolar-comercial-estados-unidos/)
 - [XE](http://www.xe.com/)
+
+### Avaliações de empresas
+
+- [Glassdoor](https://www.glassdoor.com/index.htm)
+- [Love Mondays](https://www.lovemondays.com.br/)
 
 ## Como receber do exterior
 
