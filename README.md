@@ -60,6 +60,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [IRCCloud](https://www.irccloud.com/)
 - [Skype](http://www.skype.com/)
 - [Rocket Chat](https://rocket.chat/)
+- [Self Hosted Mumble](https://www.mumble.info/)
 
 ### Produtividade
 
