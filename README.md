@@ -182,7 +182,7 @@ Por favor não entre em contato direto com os contribuidores deste repositório,
 ### Conselhos e depoimentos
 
 * Depoimento do [Felipe Fialho](https://twitter.com/LFeh) em um post no seu blog: "[Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto)"
-
+* Texto do [Marcos Tapajós](http://www.tapajos.me/) em seu blog: "[Descomplicando o trabalhar para fora](http://www.tapajos.me/trabalhando_fora/)"
 Contribua com esta seção compartilhando sobre sua experiência com trabalho remoto ou compartilhe posts de pessoas que escreveram seus depoimentos em blogs etc...
 
 ### Compartilhe
