@@ -188,3 +188,6 @@ Contribua com esta seção compartilhando sobre sua experiência com trabalho re
 ### Compartilhe
 
 <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto&t=Trabalhando%20remoto" title="Share on Facebook" target="_blank"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color/Facebook.png"></a> <a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto&text=Trabalhando%20remoto:%20https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto" target="_blank" title="Tweet"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color/Twitter.png"></a> <a href="https://plus.google.com/share?url=https%3A%2F%2Fgithub.com%2FDyegoCosta%2Ftrabalhando-remoto" target="_blank" title="Share on Google+"><img src="http://simplesharingbuttons.com/images/flat_web_icon_set/color//Google+.png"></a>
+
+
+MAKE_ME_A_COTRIBUIDOR
