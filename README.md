@@ -68,7 +68,6 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFocusd
 - [ColdTurkey (Windows)](http://getcoldturkey.com/) - Similar aos acima
-- [NODESK](http://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional
 
 ### Gerenciamento de projetos
 - [Trello](https://trello.com/)
@@ -77,6 +76,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ## Recursos
 
 - [Nomad List](https://nomadlist.com) - As melhores cidades para se viver e trabalhar remotamente
+- [NODESK](http://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional
 - [Remote](http://37signals.com/remote) (Livro - Jason Fried e DHH)
 - [Trabalho Remoto - Small Office, Home Office (SoHo)](http://www.akitaonrails.com/2013/11/18/off-topic-trabalho-remoto-small-office-home-office-soho) (Fábio Akita)
 - [tapajos/trabalhando_fora](https://github.com/tapajos/trabalhando_fora)
