@@ -68,6 +68,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [StayFocusd (Chrome)](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?utm_source=chrome-ntp-icon) - Bloqueie sites durante um período do dia para evitar a perda de produtividade
 - [LeechBlock (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/leechblock/) - Mesmas funcionalidades do StayFocusd
 - [ColdTurkey (Windows)](http://getcoldturkey.com/) - Similar aos acima
+- [NODESK](http://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional
 
 ### Gerenciamento de projetos
 - [Trello](https://trello.com/)
