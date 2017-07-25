@@ -31,7 +31,10 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ## Empregos
 
 ### TI
-- [Remote-friendly companies](https://github.com/jessicard/remote-jobs)
+- Remote-friendly companies
+   - [Remote Jobs](https://github.com/jessicard/remote-jobs)
+   - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+   - [200+ Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=0)
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
 - [We Work Remotely](https://weworkremotely.com)
 - [AngelList](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)
