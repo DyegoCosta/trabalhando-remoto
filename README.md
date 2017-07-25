@@ -80,7 +80,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Remote](http://37signals.com/remote) (Livro - Jason Fried e DHH)
 - [Trabalho Remoto - Small Office, Home Office (SoHo)](http://www.akitaonrails.com/2013/11/18/off-topic-trabalho-remoto-small-office-home-office-soho) (Fábio Akita)
 - [tapajos/trabalhando_fora](https://github.com/tapajos/trabalhando_fora)
-- [Estudo da universidade Stanford sobre WFH](https://web.stanford.edu/~nbloom/WFH.pdf)
+- [Estudo da universidade Stanford sobre WFH](https://web.archive.org/web/20170725133932/https://people.stanford.edu/nbloom/sites/default/files/wfh.pdf)
 
 ### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
