@@ -31,10 +31,6 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ## Empregos
 
 ### TI
-- Remote-friendly companies
-   - [Remote Jobs](https://github.com/jessicard/remote-jobs)
-   - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
-   - [200+ Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=0)
 - [Stack Overflow Careers](http://careers.stackoverflow.com/jobs/remote)
 - [We Work Remotely](https://weworkremotely.com)
 - [AngelList](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)
@@ -52,6 +48,10 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
 - [Worldpackers](https://www.worldpackers.com/)
+
+### Empresas "remote-friendly"
+- [Jessicard Remote Jobs](https://github.com/jessicard/remote-jobs)
+- [200+ Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=0)
 
 ## Ferramentas
 
@@ -84,6 +84,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Trabalho Remoto - Small Office, Home Office (SoHo)](http://www.akitaonrails.com/2013/11/18/off-topic-trabalho-remoto-small-office-home-office-soho) (Fábio Akita)
 - [tapajos/trabalhando_fora](https://github.com/tapajos/trabalhando_fora)
 - [Estudo da universidade Stanford sobre WFH](https://web.archive.org/web/20170725133932/https://people.stanford.edu/nbloom/sites/default/files/wfh.pdf)
+- [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 
 ### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
