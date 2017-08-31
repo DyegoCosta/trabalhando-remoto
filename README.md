@@ -26,6 +26,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Dúvidas](#dúvidas)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
   - [Compartilhe](#compartilhe)
+- [Grupos](#grupos)
 - [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Afaq%20) 
 
 ## Empregos
@@ -180,6 +181,12 @@ Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapaj
 ## Contribuir
 
 Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/).
+
+## Grupos
+
+Lista de grupos de discussão com a temática de trabalho remoto
+  - [Slack Trabalho Remoto(BR)](https://join.slack.com/t/trabalho-remoto/shared_invite/MjM1ODcwNzcxNjM5LTE1MDQyMTc0NTktM2IxZTQyMDQyMg
+)
 
 ### Dúvidas
 
