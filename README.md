@@ -114,7 +114,6 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 | Banco do Brasil / Estilo     | R$3,07                 | R$3,16                     | .09       |                |
 | Bradesco Prime               | R$2,85                 | R$2,87                     | .02       | $40 USD        |
 | Citi                         | R$3,63                 | R$3,88                     | .25       |                |
-| HSBC Premier                 | R$2,99                 | R$3,14                     | .15       | R$30           |
 | Itaú Personnalité / Uniclass | R$3,41                 | R$3,61                     | .20       | R$100          |
 | Santander Select             | R$2,79                 | R$2,87                     | .08       | R$60           |
 | Santander Empresarial        | R$4,00                 | R$4,04                     | .04       | R$150          |
