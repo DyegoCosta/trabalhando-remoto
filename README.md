@@ -112,6 +112,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 | Banco                        | Cotação do banco       | Dólar comercial &#42;      | Diferença | Taxa de câmbio |
 | ---------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
 | Banco do Brasil / Estilo     | R$3,07                 | R$3,16                     | .09       |                |
+| Bradesco                     | R$3,06                 | R$3,25                     | .19       |                |
 | Bradesco Prime               | R$2,85                 | R$2,87                     | .02       | $40 USD        |
 | Citi                         | R$3,63                 | R$3,88                     | .25       |                |
 | Itaú Personnalité / Uniclass | R$3,41                 | R$3,61                     | .20       | R$100          |
