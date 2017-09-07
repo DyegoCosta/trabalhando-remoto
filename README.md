@@ -48,6 +48,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
 - [Worldpackers](https://www.worldpackers.com/)
+- [Freelancer](https://www.freelancer.com)
+
 
 ### Empresas "remote-friendly"
 - [Jessicard Remote Jobs](https://github.com/jessicard/remote-jobs)
