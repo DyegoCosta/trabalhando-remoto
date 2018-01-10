@@ -107,7 +107,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ### Bancos
 
-#### Cotações
+#### Cotações [Desatualizado]
 
 | Banco                        | Cotação do banco       | Dólar comercial &#42;      | Diferença | Taxa de câmbio |
 | ---------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
@@ -170,6 +170,9 @@ Se você recebeu valores no PayPal (ou em conta no exterior) em moeda estrangeir
 O valor a ser declarado não é o valor exato que você recebeu em reais, existe uma [regra específica para declarar rendimentos em moeda estrangeira](http://www.receita.fazenda.gov.br/pessoafisica/irpf/2015/perguntao/perguntas/pergunta-157.html). Você deve converter o valor para dólar americano (USD) se ainda não estiver nesta moeda, e então converter para reais. É importante lembrar que você deve declarar o valor bruto, sem descontar as taxas que o banco/meio de pagamento cobrar.
 
 #### Pessoa Jurídica
+
+📌 [Mudanças na tributação Simples Nacional em 2018](https://github.com/DyegoCosta/trabalhando-remoto/issues/54)
+
 Não deixe de consultar e/ou contratar os serviços de um escritório de contabilidade para obter maiores informações a respeito dos impostos que sua empresa deve pagar.
 
 A isenção do **ISS** também pode ser usufruída caso o resultado do serviço prestado não seja verificado no Brasil. Por exemplo, o software em que trabalha não é utilizado no Brasil.
