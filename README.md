@@ -49,6 +49,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
 - [Worldpackers](https://www.worldpackers.com/)
+- [Freelancer](https://www.freelancer.com)
 
 ### Empresas "remote-friendly"
 - [Jessicard Remote Jobs](https://github.com/jessicard/remote-jobs)
@@ -108,15 +109,16 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ### Bancos
 
-#### Cotações
+#### Cotações [Desatualizado]
 
 | Banco                        | Cotação do banco       | Dólar comercial &#42;      | Diferença | Taxa de câmbio |
 | ---------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
 | Banco do Brasil / Estilo     | R$3,07                 | R$3,16                     | .09       |                |
+| Bradesco                     | R$3,06                 | R$3,25                     | .19       |                |
 | Bradesco Prime               | R$2,85                 | R$2,87                     | .02       | $40 USD        |
 | Citi                         | R$3,63                 | R$3,88                     | .25       |                |
-| HSBC Premier                 | R$2,99                 | R$3,14                     | .15       | R$30           |
 | Itaú Personnalité / Uniclass | R$3,41                 | R$3,61                     | .20       | R$100          |
+| Itaú Empresas                | R$3,14                 | R$2,99                     | .15       | R$135          |
 | Santander Select             | R$2,79                 | R$2,87                     | .08       | R$60           |
 | Santander Empresarial        | R$4,00                 | R$4,04                     | .04       | R$150          |
 | Banco Rendimento             | R$2,92                 | R$3,04                     | .12       | $20 USD        |
@@ -170,6 +172,9 @@ Se você recebeu valores no PayPal (ou em conta no exterior) em moeda estrangeir
 O valor a ser declarado não é o valor exato que você recebeu em reais, existe uma [regra específica para declarar rendimentos em moeda estrangeira](http://www.receita.fazenda.gov.br/pessoafisica/irpf/2015/perguntao/perguntas/pergunta-157.html). Você deve converter o valor para dólar americano (USD) se ainda não estiver nesta moeda, e então converter para reais. É importante lembrar que você deve declarar o valor bruto, sem descontar as taxas que o banco/meio de pagamento cobrar.
 
 #### Pessoa Jurídica
+
+📌 [Mudanças na tributação Simples Nacional em 2018](https://github.com/DyegoCosta/trabalhando-remoto/issues/54)
+
 Não deixe de consultar e/ou contratar os serviços de um escritório de contabilidade para obter maiores informações a respeito dos impostos que sua empresa deve pagar.
 
 A isenção do **ISS** também pode ser usufruída caso o resultado do serviço prestado não seja verificado no Brasil. Por exemplo, o software em que trabalha não é utilizado no Brasil.
