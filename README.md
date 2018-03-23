@@ -194,6 +194,7 @@ Por favor não entre em contato direto com os contribuidores deste repositório,
 ### Conselhos e depoimentos
 
 * Depoimento do [Felipe Fialho](https://twitter.com/LFeh) em um post no seu blog: "[Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto)"
+* [6 ferramentas para quem trabalha remoto](http://lucianosousa.net/2017/09/04/6-ferramentas-para-homeoffice.html) por [Luciano Sousa](https://twitter.com/lucianosousa)
 
 Contribua com esta seção compartilhando sobre sua experiência com trabalho remoto ou compartilhe posts de pessoas que escreveram seus depoimentos em blogs etc...
 
