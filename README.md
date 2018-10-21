@@ -36,11 +36,11 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [AngelList](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)
 - [GitHub Jobs](https://jobs.github.com/positions?description=&location=Remote)
 - [hipsters.jobs](https://hipsters.jobs/jobs/?action=refine&id_Job_Vagaparatrabalhoremoto[multi_like][]=1)
-- [JOBBOX](https://www.jobbox.io/offers?t=&s=featured&r=on)
+- [Landing Jobs](https://landing.jobs/jobs?page=1&remote=true)
 - [Toptal](http://www.toptal.com/)
 - [Remote OK](http://remoteok.io/)
-- [oDesk](https://www.odesk.com/)
-- [Top Ruby Jobs](https://toprubyjobs.com/jobs?utf8=%E2%9C%93&filter[]=remote&q=)
+- [Upwork](https://www.upwork.com/)
+- [Ruby On Rails Jobs](https://www.rorjobs.com/jobs/search?q=anywhere%2C+remote)
 - [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 - [go-remote-jobs](http://oyvindsk.com/writing/go-remote-jobs)
 - [Remote.com](http://remote.com)
@@ -58,9 +58,10 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 ### Comunicadores
 
-- [Hangout](http://www.google.com/+/learnmore/hangouts/)
+- [Google Hangouts](https://hangouts.google.com/)
 - [Slack](https://slack.com/)
-- [Hipchat](https://www.hipchat.com/)
+- [Chanty](https://www.chanty.com/)
+- [CA Flowdock](https://www.flowdock.com/)
 - [Gitter](https://gitter.im)
 - [IRCCloud](https://www.irccloud.com/)
 - [Skype](http://www.skype.com/)
@@ -81,7 +82,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 - [Nomad List](https://nomadlist.com) - As melhores cidades para se viver e trabalhar remotamente
 - [NODESK](http://nodesk.co/) - A curated collection of resources for the digital nomad, remote worker and traveling professional
-- [Remote](http://37signals.com/remote) (Livro - Jason Fried e DHH)
+- [Remote](https://basecamp.com/books/remote) (Livro - Jason Fried e DHH)
 - [Trabalho Remoto - Small Office, Home Office (SoHo)](http://www.akitaonrails.com/2013/11/18/off-topic-trabalho-remoto-small-office-home-office-soho) (Fábio Akita)
 - [tapajos/trabalhando_fora](https://github.com/tapajos/trabalhando_fora)
 - [Estudo da universidade Stanford sobre WFH](https://web.archive.org/web/20170725133932/https://people.stanford.edu/nbloom/sites/default/files/wfh.pdf)
@@ -99,6 +100,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 - [UOL](http://economia.uol.com.br/cotacoes/cambio/dolar-comercial-estados-unidos/)
 - [XE](http://www.xe.com/)
+- [Investing.com](https://www.investing.com/currencies/usd-brl)
 
 ### Avaliações de empresas
 
@@ -136,15 +138,15 @@ Não leve em consideração somente as cotações para escolher o banco ideal pa
 - [Moip](https://moip.com.br/solucoes-assinaturas/)
 - [Skrill](https://www.skrill.com)
 - [Payoneer](http://www.payoneer.com/)
-- [Google Wallet](https://www.google.com/wallet/)
+- [Google Pay](https://pay.google.com/about/)
 - [Western Union](https://www.westernunion.com.br)
 - [Xoom](https://www.xoom.com/)
 - [TransferWise](https://transferwise.com/)
 
 ### Invoice
 
-Invoice é um documento simples onde você descreve o tipo de serviço que esta sendo prestado e o valor deste serviço.
-A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona como uma espécie de nota fiscal do seu serviço que deve ser gerada todo mês caso seu salário seja mensal. Este documento pode ser bem simples e escrito em qualquer editor de texto. O único ponto a ser observado ao gerar uma invoice é o numero do documento que deve ser sempre único.
+Invoice é um documento simples onde você descreve o tipo de serviço que está sendo prestado e o valor deste serviço.
+A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona como uma espécie de nota fiscal do seu serviço que deve ser gerada todo mês caso seu salário seja mensal. Este documento pode ser bem simples e escrito em qualquer editor de texto. O único ponto a ser observado ao gerar uma invoice é o número do documento que deve ser sempre único.
 
 - [Harvest](https://www.getharvest.com/)
 - [Invoiced Lite](https://invoice-generator.com)
@@ -155,12 +157,12 @@ A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona
 
 ## Impostos
 
-A intenção desta seção é destacar as particularidade dos impostos quando o serviço prestado em questão é remoto e para empresas do exterior. Caso a prestação de serviço seja para empresas dentro do território brasileiro, não há diferença.
+A intenção desta seção é destacar as particularidades dos impostos quando o serviço prestado em questão é remoto e para empresas do exterior. Caso a prestação de serviço seja para empresas dentro do território brasileiro, não há diferença.
 
 #### Pessoa Física
 
 ###### Imposto de renda
-Ao receber qualquer rendimento, você deve prestar contas à Receita Federal do Brasil. Se o seu empregador não tem representatividade no Brasil ou ele não retém o imposto, você deve recolher o imposto através do [Carnê-Leão](http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/carne-leao). A funcionalidade é simples, você deve declarar, no mês posterior ao recebimento efetivo (exemplo: quando o dinheiro caiu na sua conta) o valor em reais referente ao serviço prestado. Com isso, no próprio programa é gerada uma DARF para o pagamento do imposto, que deve ser quitado até o último dia útil do mês posterior ao recebimento.
+Ao receber qualquer rendimento, você deve prestar contas à Receita Federal do Brasil. Se o seu empregador não tem representatividade no Brasil ou ele não retém o imposto, você deve recolher o imposto através do [Carnê-Leão](http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/carne-leao). A funcionalidade é simples: você deve declarar, no mês posterior ao recebimento efetivo (exemplo: quando o dinheiro caiu na sua conta) o valor em reais referente ao serviço prestado. Com isso, no próprio programa é gerada uma DARF (Documento de Arrecadação, com código de barras) para o pagamento do imposto, que deve ser quitado até o último dia útil do mês posterior ao recebimento.
 
 Lembre-se de salvar os arquivos gerados pelo programa Carnê-Leão, para que eles sejam importados na sua [declaração de ajuste anual do IRPF](http://idg.receita.fazenda.gov.br/interface/cidadao/irpf) no ano seguinte.
 
@@ -170,7 +172,7 @@ Valores recebidos por residente brasileiro de empresas no exterior devem ser dec
 Se você recebeu valores no PayPal (ou em conta no exterior) em moeda estrangeira e manteve o saldo no PayPal (ou na conta no exterior), a regra continua válida: os rendimentos devem ser declarados no Carnê-Leão.
 
 **Valor em moeda estrangeira:**
-O valor a ser declarado não é o valor exato que você recebeu em reais, existe uma [regra específica para declarar rendimentos em moeda estrangeira](http://www.receita.fazenda.gov.br/pessoafisica/irpf/2015/perguntao/perguntas/pergunta-157.html). Você deve converter o valor para dólar americano (USD) se ainda não estiver nesta moeda, e então converter para reais. É importante lembrar que você deve declarar o valor bruto, sem descontar as taxas que o banco/meio de pagamento cobrar.
+O valor a ser declarado não é o valor exato que você recebeu em reais, existe uma [regra específica para declarar rendimentos em moeda estrangeira](http://www.receita.fazenda.gov.br/pessoafisica/irpf/2015/perguntao/perguntas/pergunta-157.html). Você deve converter o valor para dólar americano (USD), se ainda não estiver nesta moeda, e então converter para reais. É importante lembrar que você deve declarar o valor bruto, sem descontar as taxas que o banco/meio de pagamento cobrar.
 
 #### Pessoa Jurídica
 
