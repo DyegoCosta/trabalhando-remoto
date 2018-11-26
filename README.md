@@ -26,7 +26,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Dúvidas](#dúvidas)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
   - [Compartilhe](#compartilhe)
-- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Afaq%20) 
+- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Afaq%20)
 
 ## Empregos
 
@@ -126,8 +126,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 | Banco Rendimento             | R$2,92                 | R$3,04                     | .12       | $20 USD        |
 | Banco Inter                  | R$3,84                 | R$3,89                     | .05       | 0              |
 
-&#42; No momento da cotação 
- 
+&#42; No momento da cotação
+
 Não leve em consideração somente as cotações para escolher o banco ideal para você. Veja mais detalhes dos bancos, suas taxas e particularidades [aqui](https://github.com/DyegoCosta/trabalhando-remoto/wiki/Bancos).
 
 ### Pagamento digital
@@ -142,6 +142,7 @@ Não leve em consideração somente as cotações para escolher o banco ideal pa
 - [Western Union](https://www.westernunion.com.br)
 - [Xoom](https://www.xoom.com/)
 - [TransferWise](https://transferwise.com/)
+- [Husky](https://husky.io/)
 
 ### Invoice
 
