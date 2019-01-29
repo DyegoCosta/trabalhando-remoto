@@ -67,6 +67,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Skype](http://www.skype.com/)
 - [Rocket Chat](https://rocket.chat/)
 - [Self Hosted Mumble](https://www.mumble.info/)
+- [Ringcentral Meetings](https://www.ringcentral.com/online-meetings/overview.html)
+- [Zoom](https://zoom.us)
 
 ### Produtividade
 
