@@ -67,6 +67,8 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Skype](http://www.skype.com/)
 - [Rocket Chat](https://rocket.chat/)
 - [Self Hosted Mumble](https://www.mumble.info/)
+- [Ringcentral Meetings](https://www.ringcentral.com/online-meetings/overview.html)
+- [Zoom](https://zoom.us)
 
 ### Produtividade
 
@@ -113,18 +115,18 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 
 #### Cotações [Desatualizado]
 
-| Banco                        | Cotação do banco       | Dólar comercial &#42;      | Diferença | Taxa de câmbio |
-| ---------------------------- |:----------------------:| --------------------------:| ---------:| --------------:|
-| Banco do Brasil / Estilo     | R$3,07                 | R$3,16                     | .09       |                |
-| Bradesco                     | R$3,06                 | R$3,25                     | .19       |                |
-| Bradesco Prime               | R$2,85                 | R$2,87                     | .02       | $40 USD        |
-| Citi                         | R$3,63                 | R$3,88                     | .25       |                |
-| Itaú Personnalité / Uniclass | R$3,41                 | R$3,61                     | .20       | R$100          |
-| Itaú Empresas                | R$3,14                 | R$2,99                     | .15       | R$135          |
-| Santander Select             | R$2,79                 | R$2,87                     | .08       | R$60           |
-| Santander Empresarial        | R$4,00                 | R$4,04                     | .04       | R$150          |
-| Banco Rendimento             | R$2,92                 | R$3,04                     | .12       | $20 USD        |
-| Banco Inter                  | R$3,84                 | R$3,89                     | .05       | 0              |
+| Banco                        | Cotação do banco  | Dólar comercial &#42; | Data cotação | Diferença | Taxa de câmbio |
+| ---------------------------- |:-----------------:| ---------------------:| ------------:| ---------:| --------------:|
+| Banco do Brasil / Estilo     | R$3,07            | R$3,16                |              | .09       |                |
+| Bradesco                     | R$3,06            | R$3,25                |              | .19       |                |
+| Bradesco Prime               | R$2,85            | R$2,87                |              | .02       | $40 USD        |
+| Citi                         | R$3,63            | R$3,88                |              | .25       |                |
+| Itaú Personnalité / Uniclass | R$3,41            | R$3,61                |              | .20       | R$100          |
+| Itaú Empresas                | R$3,14            | R$2,99                |              | .15       | R$135          |
+| Santander Select             | R$2,79            | R$2,87                |              | .08       | R$60           |
+| Santander Empresarial        | R$4,00            | R$4,04                |              | .04       | R$150          |
+| Banco Rendimento             | R$2,92            | R$3,04                |              | .12       | $20 USD        |
+| Banco Inter                  | R$3,62            | R$3,68                |  30/01/2019  | .06       | 0              |
 
 &#42; No momento da cotação
 
