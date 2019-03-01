@@ -22,6 +22,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Impostos e Contribuições Federais](#impostos)
   - [Pessoa Física](#pessoa-física)
   - [Pessoa Jurídica](#pessoa-jurídica)
+    - [Contabilidade Online](#contabilidade-online)
 - [Contribuir](#contribuir)
   - [Dúvidas](#dúvidas)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
