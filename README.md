@@ -93,11 +93,11 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Slack Trabalho Remoto(BR)](https://join.slack.com/t/trabalho-remoto/shared_invite/enQtMjk1MDUxMzgwMzY4LTA5YmM2ZmY0ZTdkMjRhMjM2ZjBkZDc4YzNmMjZiNTA1N2EwZDEyMmUzZjZmNzQwMGU3YzY2OWM0ODFkMmZjYTI)
 
 ### Grok Podcast
-- [Episódio 86 – Trabalho Remoto – Parte 1 de 5](http://www.grokpodcast.com/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
-- [Episódio 86 – Trabalho Remoto – Parte 2 de 5](http://www.grokpodcast.com/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/)
-- [Episódio 86 – Trabalho Remoto – Parte 3 de 5](http://www.grokpodcast.com/2013/04/16/episodio-88-trabalho-remoto/)
-- [Episódio 86 – Trabalho Remoto – Parte 4 de 5](http://www.grokpodcast.com/2013/04/24/episodio-89-trabalho-remoto/)
-- [Episódio 86 – Trabalho Remoto – Parte 5 de 5](http://www.grokpodcast.com/2013/05/02/episodio-90-trabalho-remoto/)
+- [Episódio 86 – Trabalho Remoto – Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
+- [Episódio 86 – Trabalho Remoto – Parte 2 de 5](https://www.grokpodcast.com.br/2013/04/10/episodio-87-trabalho-remoto-parte-2-de-4/)
+- [Episódio 86 – Trabalho Remoto – Parte 3 de 5](https://www.grokpodcast.com.br/2013/04/16/episodio-88-trabalho-remoto/)
+- [Episódio 86 – Trabalho Remoto – Parte 4 de 5](https://www.grokpodcast.com.br/2013/04/24/episodio-89-trabalho-remoto/)
+- [Episódio 86 – Trabalho Remoto – Parte 5 de 5](https://www.grokpodcast.com.br/2013/05/02/episodio-90-trabalho-remoto/)
 
 ### Cotação de moedas
 
