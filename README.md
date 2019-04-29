@@ -45,6 +45,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
 - [go-remote-jobs](http://oyvindsk.com/writing/go-remote-jobs)
 - [Remote.com](http://remote.com)
+- [Remoted.io](https://remoted.io)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
