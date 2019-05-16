@@ -46,6 +46,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [go-remote-jobs](http://oyvindsk.com/writing/go-remote-jobs)
 - [Remote.com](http://remote.com)
 - [Remoted.io](https://remoted.io)
+- [Remoter.net](https://remoter.net)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
