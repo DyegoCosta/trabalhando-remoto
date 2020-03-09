@@ -189,7 +189,7 @@ Não deixe de consultar e/ou contratar os serviços de um escritório de contabi
 
 A isenção do **ISS** também pode ser usufruída caso o resultado do serviço prestado não seja verificado no Brasil. Por exemplo, o software em que trabalha não é utilizado no Brasil.
 
-> Nesse caso os impostos podem variar bastante de acordo com o tipo da sua empresa e a sua localização. Se a sua empresa for cadastrada no **Simples** você irá pagar os impostos como se tivesse prestando serviço no Brasil. Caso sua empresa seja de **Lucro Presumido** você pode usufruir da isenção de **PIS** e **Cofins** existente para serviços de exportação de software conforme IN-SRF 247 Art. 46 de 21/11/2012.
+> Nesse caso os impostos podem variar bastante de acordo com o tipo da sua empresa e a sua localização. Se a sua empresa for cadastrada no **Simples** ou **Lucro Presumido** você pode usufruir da isenção de **PIS**, **ISS** e **Cofins** existente para serviços de exportação de software conforme IN-SRF 247 Art. 46 de 21/11/2012.
 
 Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapajos.me/trabalhando_fora/#impostos)
 
