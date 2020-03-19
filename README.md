@@ -56,6 +56,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ### Empresas "remote-friendly"
 - [Jessicard Remote Jobs](https://github.com/jessicard/remote-jobs)
 - [200+ Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/edit#gid=0)
+- [Simbiose Ventures](https://www.simbioseventures.com)
 
 ## Ferramentas
 
@@ -72,6 +73,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Self Hosted Mumble](https://www.mumble.info/)
 - [Ringcentral Meetings](https://www.ringcentral.com/online-meetings/overview.html)
 - [Zoom](https://zoom.us)
+- [Discord](https://discordapp.com/)
 
 ### Produtividade
 
@@ -93,6 +95,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Estudo da universidade Stanford sobre WFH](https://web.archive.org/web/20170725133932/https://people.stanford.edu/nbloom/sites/default/files/wfh.pdf)
 - [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Slack Trabalho Remoto(BR)](https://join.slack.com/t/trabalho-remoto/shared_invite/enQtMjk1MDUxMzgwMzY4LTA5YmM2ZmY0ZTdkMjRhMjM2ZjBkZDc4YzNmMjZiNTA1N2EwZDEyMmUzZjZmNzQwMGU3YzY2OWM0ODFkMmZjYTI)
+- [Gitlab Team Handbook](https://about.gitlab.com/handbook/)
 
 ### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
@@ -148,6 +151,7 @@ Não leve em consideração somente as cotações para escolher o banco ideal pa
 - [Xoom](https://www.xoom.com/)
 - [TransferWise](https://transferwise.com/)
 - [Husky](https://husky.io/)
+- [Remessa Online](https://www.remessaonline.com.br/)
 
 ### Invoice
 
