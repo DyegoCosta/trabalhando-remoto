@@ -214,6 +214,7 @@ Por favor não entre em contato direto com os contribuidores deste repositório,
 
 * Depoimento do [Felipe Fialho](https://twitter.com/LFeh) em um post no seu blog: "[Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto)"
 * [6 ferramentas para quem trabalha remoto](http://lucianosousa.net/2017/09/04/6-ferramentas-para-homeoffice.html) por [Luciano Sousa](https://twitter.com/lucianosousa)
+* [Como pagar 6% de impostos dentro da lei desenvolvendo software?](https://medium.com/@hnordt/como-pagar-6-de-impostos-dentro-da-lei-a91c23868ec6) por [Heliton Nordt](https://medium.com/@hnordt)
 
 Contribua com esta seção compartilhando sobre sua experiência com trabalho remoto ou compartilhe posts de pessoas que escreveram seus depoimentos em blogs etc...
 
