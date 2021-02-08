@@ -106,6 +106,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [UOL](http://economia.uol.com.br/cotacoes/cambio/dolar-comercial-estados-unidos/)
 - [XE](http://www.xe.com/)
 - [Investing.com](https://www.investing.com/currencies/usd-brl)
+- [DolarHoje.io](https://dolarhoje.io)
 
 ### Avaliações de empresas
 
