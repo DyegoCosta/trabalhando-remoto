@@ -92,7 +92,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [tapajos/trabalhando_fora](https://github.com/tapajos/trabalhando_fora)
 - [Estudo da universidade Stanford sobre WFH](https://web.archive.org/web/20170725133932/https://people.stanford.edu/nbloom/sites/default/files/wfh.pdf)
 - [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
-- [Slack Trabalho Remoto(BR)](https://join.slack.com/t/trabalho-remoto/shared_invite/enQtMjk1MDUxMzgwMzY4LTA5YmM2ZmY0ZTdkMjRhMjM2ZjBkZDc4YzNmMjZiNTA1N2EwZDEyMmUzZjZmNzQwMGU3YzY2OWM0ODFkMmZjYTI)
+- [Slack Trabalho Remoto (BR)](https://trabalho-remoto.slack.com) (Abra uma issue para pedir o link de convite atualizado)
 
 ### Grok Podcast
 - [Episódio 86 – Trabalho Remoto – Parte 1 de 5](https://www.grokpodcast.com.br/2013/04/02/episodio-86-trabalho-remoto-parte-1-de-4/)
