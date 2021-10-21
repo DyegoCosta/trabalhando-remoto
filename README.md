@@ -72,6 +72,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Self Hosted Mumble](https://www.mumble.info/)
 - [Ringcentral Meetings](https://www.ringcentral.com/online-meetings/overview.html)
 - [Zoom](https://zoom.us)
+- [Discord](https://discord.com)
 
 ### Produtividade
 
