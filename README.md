@@ -82,6 +82,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ### Gerenciamento de projetos
 - [Trello](https://trello.com/)
 - [Wrike](https://wrike.com/)
+- [Freedcamp](https://freedcamp.com)
 
 ## Recursos
 
