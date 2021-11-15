@@ -47,6 +47,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 - [Remote.com](http://remote.com)
 - [Remoted.io](https://remoted.io)
 - [Remoter.net](https://remoter.net)
+- [Remote Index](https://remoteindex.co/)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
