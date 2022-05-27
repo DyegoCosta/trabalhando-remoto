@@ -27,7 +27,7 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
   - [Dúvidas](#dúvidas)
   - [Conselhos e Depoimentos](#conselhos-e-depoimentos)
   - [Compartilhe](#compartilhe)
-- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3Afaq%20)
+- [FAQ](https://github.com/DyegoCosta/trabalhando-remoto/discussions)
 
 ## Empregos
 
