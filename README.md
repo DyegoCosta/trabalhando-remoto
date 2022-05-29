@@ -187,7 +187,7 @@ O valor a ser declarado não é o valor exato que você recebeu em reais, existe
 
 #### Pessoa Jurídica
 
-📌 [Mudanças na tributação Simples Nacional em 2018](https://github.com/DyegoCosta/trabalhando-remoto/issues/54)
+📌 [Mudanças na tributação Simples Nacional em 2018](https://github.com/DyegoCosta/trabalhando-remoto/discussions/175)
 
 Não deixe de consultar e/ou contratar os serviços de um escritório de contabilidade para obter maiores informações a respeito dos impostos que sua empresa deve pagar.
 
@@ -199,7 +199,7 @@ Leia mais em [http://www.tapajos.me/trabalhando_fora/#impostos](http://www.tapaj
 
 ##### Contabilidade Online
 
-Já existem alguns serviços online de contabilidade que podem ajudar a reduzir os custos mensais com um contador pessoal. Experiências sobre alguns desses serviços podem ser encontradas [aqui](https://github.com/DyegoCosta/trabalhando-remoto/issues/72).
+Já existem alguns serviços online de contabilidade que podem ajudar a reduzir os custos mensais com um contador pessoal. Experiências sobre alguns desses serviços podem ser encontradas [aqui](https://github.com/DyegoCosta/trabalhando-remoto/discussions/173).
 
 * [Agilize](https://www.agilize.com.br/)
 * [Conta Azul](https://contaazul.com)
@@ -208,11 +208,11 @@ Já existem alguns serviços online de contabilidade que podem ajudar a reduzir 
 
 ## Contribuir
 
-Abra um [issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/).
+Abra uma [discussion](https://github.com/DyegoCosta/trabalhando-remoto/discussions/new) com dúvidas ou sugestões ou envie um [pull request](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/).
 
 ### Dúvidas
 
-Por favor não entre em contato direto com os contribuidores deste repositório, ao invés disto consulte as  [FAQs](https://github.com/DyegoCosta/trabalhando-remoto/issues?utf8=%E2%9C%93&q=label%3Ad%C3%BAvida+) e caso não encontre o que procura abra um [novo issue](https://github.com/DyegoCosta/trabalhando-remoto/issues/new) com a label `dúvida`.
+Por favor não entre em contato direto com os contribuidores deste repositório, ao invés disto consulte as [discussions abertas](https://github.com/DyegoCosta/trabalhando-remoto/discussions) e caso não encontre o que procura abra uma [nova discussion](https://github.com/DyegoCosta/trabalhando-remoto/discussions/new).
 
 ### Conselhos e depoimentos
 
