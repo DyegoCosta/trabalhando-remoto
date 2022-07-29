@@ -34,7 +34,6 @@ Compilação de informações destinada a quem trabalha ou quer trabalhar remota
 ### TI
 - [We Work Remotely](https://weworkremotely.com)
 - [AngelList](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)
-- [GitHub Jobs](https://jobs.github.com/positions?description=&location=Remote)
 - [hipsters.jobs](https://hipsters.jobs/jobs/?action=refine&id_Job_Vagaparatrabalhoremoto[multi_like][]=1)
 - [Landing Jobs](https://landing.jobs/jobs?page=1&remote=true)
 - [Toptal](http://www.toptal.com/)
