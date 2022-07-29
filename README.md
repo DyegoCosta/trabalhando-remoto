@@ -148,7 +148,7 @@ Não leve em consideração somente as cotações para escolher o banco ideal pa
 - [Google Pay](https://pay.google.com/about/)
 - [Western Union](https://www.westernunion.com.br)
 - [Xoom](https://www.xoom.com/)
-- [TransferWise](https://transferwise.com/)
+- [Wise](https://wise.com/)
 - [Husky](https://husky.io/)
 
 ### Invoice
