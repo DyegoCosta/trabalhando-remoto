@@ -2,6 +2,8 @@
 
 Compilação de informações destinada a quem trabalha ou quer trabalhar remotamente.
 
+Dúvidas ou sugestões? Inicie ou encontre uma [discussão](https://github.com/DyegoCosta/trabalhando-remoto/discussions).
+
 ## Conteúdo
 
 - [Empregos](#empregos)
