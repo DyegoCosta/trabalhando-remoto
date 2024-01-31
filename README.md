@@ -35,6 +35,7 @@ Dúvidas ou sugestões? Inicie ou encontre uma [discussão](https://github.com/D
 
 ### TI
 - [We Work Remotely](https://weworkremotely.com)
+- [OkJob](https://okjob.io)
 - [AngelList](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)
 - [hipsters.jobs](https://hipsters.jobs/jobs/?action=refine&id_Job_Vagaparatrabalhoremoto[multi_like][]=1)
 - [Landing Jobs](https://landing.jobs/jobs?page=1&remote=true)
