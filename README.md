@@ -35,21 +35,15 @@ Dúvidas ou sugestões? Inicie ou encontre uma [discussão](https://github.com/D
 
 ### TI
 - [We Work Remotely](https://weworkremotely.com)
-- [AngelList](https://angel.co/jobs#find/f!%7B%22remote%22%3Atrue%7D)
-- [hipsters.jobs](https://hipsters.jobs/jobs/?action=refine&id_Job_Vagaparatrabalhoremoto[multi_like][]=1)
+- [Wellfound](https://wellfound.com/role/l/software-engineer/brazil)
 - [Landing Jobs](https://landing.jobs/jobs?page=1&remote=true)
-- [Toptal](http://www.toptal.com/)
 - [Remote OK](http://remoteok.io/)
 - [Upwork](https://www.upwork.com/)
-- [Ruby On Rails Jobs](https://www.rorjobs.com/jobs/search?q=anywhere%2C+remote)
 - [remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil)
-- [go-remote-jobs](http://oyvindsk.com/writing/go-remote-jobs)
-- [Remote.com](http://remote.com)
-- [Remoted.io](https://remoted.io)
-- [Remoter.net](https://remoter.net)
 - [Remote Index](https://remoteindex.co/)
 - [Remotive](https://remotive.com/)
 - [JustRemote](https://justremote.co/)
+- [Ruby On Remote](https://rubyonremote.com)
 
 ### Diversos
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
