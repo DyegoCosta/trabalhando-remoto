@@ -35,6 +35,7 @@ Dúvidas ou sugestões? Inicie ou encontre uma [discussão](https://github.com/D
 
 ### TI
 - [We Work Remotely](https://weworkremotely.com)
+- [Y Combinator](https://www.workatastartup.com/jobs/r/software-engineer)
 - [Wellfound](https://wellfound.com/role/l/software-engineer/brazil)
 - [Landing Jobs](https://landing.jobs/jobs?page=1&remote=true)
 - [Remote OK](http://remoteok.io/)
