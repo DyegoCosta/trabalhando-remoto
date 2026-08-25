@@ -161,6 +161,7 @@ A invoice serve para a empresa conseguir faturar o seu valor(salário), funciona
 - [PayPal Invoicing](https://www.paypal.com/ae/cgi-bin/webscr?cmd=p/sell/invoicing_works-outside) (Para recebimento via PayPal)
 - [Invoice Ninja](http://www.invoiceninja.com/) (Freemium e open source)
 - [Zervant](https://www.zervant.com/) (Free ou Premium)
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) (Gratuito no browser; [licença comercial white-label EUR 249](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k))
 
 
 ## Impostos
