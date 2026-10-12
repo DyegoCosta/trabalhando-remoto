@@ -50,6 +50,7 @@ Dúvidas ou sugestões? Inicie ou encontre uma [discussão](https://github.com/D
 - [trampos.co](http://trampos.co/oportunidades?lc=home%20office)
 - [Worldpackers](https://www.worldpackers.com/)
 - [Freelancer](https://www.freelancer.com)
+- [RobotTraining.jobs](https://robottraining.jobs/pt)
 
 ### Empresas "remote-friendly"
 - [Jessicard Remote Jobs](https://github.com/jessicard/remote-jobs)
